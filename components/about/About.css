@@ -85,6 +85,7 @@
         margin: 1rem 0 1.5rem;
     }
  }
+
  /* ================== MEDIA QUERIES ปรับตามขนาดหน้าจอ  (SMALL DEVICE) ====================== */
  @media screen  and (max-width: 600px){
     .about__me{
