@@ -119,11 +119,13 @@ img{
         margin-top: 6rem;
     }
 }
+
 /* ================== MEDIA QUERIES  ปรับตามขนาดหน้าจอ (SMALL DEVICE) ====================== */
 @media screen  and (max-width: 600px){
     .container{
         width: var(--container-width-sm);
         margin: 0;
+        padding-left: 20px;
     }
 
     section > h2{
